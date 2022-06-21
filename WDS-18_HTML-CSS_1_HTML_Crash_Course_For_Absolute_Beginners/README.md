@@ -10,9 +10,6 @@
 ![Middle Banner](/WDS-18_HTML-CSS_1_HTML_Crash_Course_For_Absolute_Beginners/img/Screen%20Shot%202022-06-21%20at%208.20.02%20pm.png)
 
 
-## Tools
-<img src= Documentation/jira.png  height="90" width="100" ><img src= Documentation/vscode.png  height="90" width="100"><img src= Documentation/html.png  height="90" width="90"><img src= Documentation/css.png  height="90" width="90"><img src= Documentation/photoshop.png  height="90" width="100"><img src= Documentation/js.png  height="90" width="100"><img src= Documentation/jquery.png  height="90" width="100">
-
 ## What I learned/used
 * HTML 5
 * Semantic tags
@@ -23,32 +20,28 @@
     * aside
     * footer
 * tags
-    * <h1> to <h6>
-    * <p>
-    * <a href="">
-    * <small>
-    * <cite>
-    * <blockquote>
-    * <img>
-    * <ul>
-    * <ol>
-    * <li>
-    * <table>
-    * <th>
-    * <tr>
-    * <td>
-    * <tbody>
-    * <hr>
-    * <br>
-    * <label>
-    * <input>
-    * <textarea>
-    * <button>
-    
-
-
-
-  
+    * h1 to h6
+    * p
+    * a href=""
+    * small
+    * cite
+    * blockquote
+    * img
+    * ul
+    * ol
+    * li
+    * table
+    * th
+    * tr
+    * td
+    * tbody
+    * hr
+    * br
+    * label
+    * input
+    * textarea
+    * button
+      
 
 
 
