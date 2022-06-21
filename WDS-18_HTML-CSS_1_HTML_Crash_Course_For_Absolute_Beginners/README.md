@@ -3,18 +3,11 @@
 
 ![Begin Banner](Documentation/top-1200x350.gif)
 
-* Online courses, challenges and creation of my own projects.
-
-## Project + Result
-* (HTML/CSS 1) - HTML Crash Course For Absolute Beginners [link](https://github.com/pittyh6/12Mths-WebDevelopmentStudy-2022-2023/tree/master/WDS-18_HTML-CSS_1_HTML_Crash_Course_For_Absolute_Beginners)
-* 
-
-## Management Tools
-* Jira(Sprints) [link](https://github.com/pittyh6/12Mths-WebDevelopmentStudy-2022-2023/tree/master/Sprint)
 
 ### Result
 * Desktop
-![Middle Banner](Documentation/Under_Development.gif)
+![Middle Banner](/WDS-18_HTML-CSS_1_HTML_Crash_Course_For_Absolute_Beginners/img/Screen%20Shot%202022-06-21%20at%208.18.22%20pm.png)
+![Middle Banner](/WDS-18_HTML-CSS_1_HTML_Crash_Course_For_Absolute_Beginners/img/Screen%20Shot%202022-06-21%20at%208.20.02%20pm.png)
 
 
 ## Tools
@@ -23,6 +16,36 @@
 ## What I learned/used
 * HTML 5
 * Semantic tags
+    * header
+    * nav
+    * section
+    * article
+    * aside
+    * footer
+* tags
+    * <h1> to <h6>
+    * <p>
+    * <a href="">
+    * <small>
+    * <cite>
+    * <blockquote>
+    * <img>
+    * <ul>
+    * <ol>
+    * <li>
+    * <table>
+    * <th>
+    * <tr>
+    * <td>
+    * <tbody>
+    * <hr>
+    * <br>
+    * <label>
+    * <input>
+    * <textarea>
+    * <button>
+    
+
 
 
   
