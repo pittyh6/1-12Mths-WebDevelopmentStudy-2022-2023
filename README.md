@@ -10,7 +10,7 @@
 * 
 
 ## Management Tools
-* Jira(Sprints) [link]()
+* Jira(Sprints) [link](https://github.com/pittyh6/12Mths-WebDevelopmentStudy-2022-2023/tree/master/Sprint)
 
 ### Result
 * Desktop
