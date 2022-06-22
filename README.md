@@ -23,13 +23,7 @@
 
 ## What I learned/used (overall)
 * HTML 5
-* Semantic tags
-* tags
 * CSS
-* properties
-* values
-* selectors
-
 
 ### You can find it in detail in the links below or inside each project folder in the readMe file what was learned and done.
 * HTML [link](https://github.com/pittyh6/12Mths-WebDevelopmentStudy-2022-2023/blob/master/learnedHTML.md)
