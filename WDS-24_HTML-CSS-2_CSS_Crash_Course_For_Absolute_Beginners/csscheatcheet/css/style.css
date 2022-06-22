@@ -1,0 +1,33 @@
+
+body{
+    background-color: #b1b1;
+    color: rgb(132, 90, 132);
+
+    /* ---- -------------- ---- */
+    font-family: arial, helvetica, sans-serif;
+    font-size:16px;
+    font-weight: normal; 
+    /* ---- same as  above ---- */
+    font: normal 16px arial, helvetica, sans-serif;
+    /* ---- -------------- ---- */
+
+    line-height: 1.6em;
+    margin: 0;
+}
+h1{
+    color: #b11a;
+}
+.container{
+    margin: auto;
+    width: 80%;
+}
+.box1{
+    background-color: #333;  
+    border-left: 5px rgb(135, 65, 65) solid;
+    border-right: 3px rgb(85, 85, 162) solid; 
+    border-width: 5px;
+    border-left-width: 7px; 
+    border-left-style: dotted;
+    padding: 5px 10px;
+    margin: 20px 0;
+}

@@ -21,13 +21,17 @@
 ## Tools
 <img src= Documentation/jira.png  height="90" width="100" ><img src= Documentation/vscode.png  height="90" width="100"><img src= Documentation/html.png  height="90" width="90"><img src= Documentation/css.png  height="90" width="90"><img src= Documentation/photoshop.png  height="90" width="100"><img src= Documentation/js.png  height="90" width="100"><img src= Documentation/jquery.png  height="90" width="100">
 
-## What I learned/used
-
+## What I learned/used (overall)
 * HTML 5
 * Semantic tags
 * tags
+* CSS
+* properties
+* values
+* selectors
 
-### You can find in detail within each project in the readMe file what was learned and done.
+
+### You can find in detail here [link]() or inside each project folder in the readMe file what was learned and done.
 
   
 
