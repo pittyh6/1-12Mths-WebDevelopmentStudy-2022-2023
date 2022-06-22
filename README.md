@@ -31,7 +31,7 @@
 * selectors
 
 
-### You can find in detail here [link]() or inside each project folder in the readMe file what was learned and done.
+### You can find in detail here [link](https://github.com/pittyh6/12Mths-WebDevelopmentStudy-2022-2023/blob/master/learned.md) or inside each project folder in the readMe file what was learned and done.
 
   
 
