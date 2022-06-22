@@ -7,7 +7,8 @@
 
 ## Project + Result
 * (HTML/CSS 1) - HTML Crash Course For Absolute Beginners [link](https://github.com/pittyh6/12Mths-WebDevelopmentStudy-2022-2023/tree/master/WDS-18_HTML-CSS_1_HTML_Crash_Course_For_Absolute_Beginners)
-* (HTML/CSS 2) - CSS Crash Course For Absolute Beginners [link]()
+
+* (HTML/CSS 2) - CSS Crash Course For Absolute Beginners [link](https://github.com/pittyh6/12Mths-WebDevelopmentStudy-2022-2023/tree/master/WDS-24_HTML-CSS-2_CSS_Crash_Course_For_Absolute_Beginners)
 
 ## Management Tools
 * Jira(Sprints) [link](https://github.com/pittyh6/12Mths-WebDevelopmentStudy-2022-2023/tree/master/Sprint)
