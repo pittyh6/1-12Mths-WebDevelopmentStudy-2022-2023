@@ -48,6 +48,17 @@
             * border-left-style
         * border-radius
         * container
+        * text-decoration
+        * text-transform
+        * text-align
+        * letter-spacing
+        * word-spacing
+        * list-style
+        * list-style-image
+        * hover
+        * active
+        * visited
+        * 
 
     
     * value
@@ -73,6 +84,7 @@
     * div
     * class
     * id
+    * form
       
 
 ![End Banner](Documentation/botton-1200x350.gif)

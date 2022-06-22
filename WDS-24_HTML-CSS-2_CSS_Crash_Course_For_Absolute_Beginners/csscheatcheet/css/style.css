@@ -14,6 +14,20 @@ body{
     line-height: 1.6em;
     margin: 0;
 }
+a{
+    color: #333;
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(171, 93, 84);
+}
+a:active{
+    color: rgb(77, 111, 143);
+    font-weight: bold;
+}
+a:visited{
+    color: rgb(136, 160, 37);
+}
 h1{
     color: #b11a;
 }
@@ -30,4 +44,37 @@ h1{
     border-left-style: dotted;
     padding: 5px 10px;
     margin: 20px 0;
+}
+.box1 h1{
+    font-family: "Helvetica Neue";
+    text-transform: uppercase;
+    text-decoration:  underline;
+    letter-spacing: 0.2em;
+    word-spacing: 1em;
+}
+
+.box2{
+    border: 3px dotted #b1b1b1;
+    margin: 10px 0;
+    padding: 10px 20px
+}
+.categories{
+    border: 3px dotted #b1b1b1;
+    margin: 10px 0;
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+.categories h2{
+    text-align: center;
+}
+
+.categories ul{
+    list-style:  square;
+    list-style: none;
+    padding-left: 15px;
+}
+.categories li{
+    padding-bottom: 6px;
+    border-bottom: dotted 2px rgb(132, 90, 132);
+    list-style-image: url("../images/check.png")
 }

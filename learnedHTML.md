@@ -41,6 +41,7 @@
     * input
     * textarea
     * button
+    * form
 
 
 
