@@ -19,6 +19,7 @@
     * Select by tag 
     * Select by id 
     * Select by class
+    * Select by class + tag
     * difference between id and class
     * link
     * Property: value
