@@ -35,6 +35,20 @@ h1{
     margin: auto;
     width: 80%;
 }
+
+.button{
+    background-color:rgb(50, 17, 64);
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+}
+.button:hover{
+    background-color:rgb(85, 85, 162);
+}
+.clr{
+    clear: both;
+}
 .box1{
     background-color: #333;  
     border-left: 5px rgb(135, 65, 65) solid;
@@ -77,4 +91,43 @@ h1{
     padding-bottom: 6px;
     border-bottom: dotted 2px rgb(132, 90, 132);
     list-style-image: url("../images/check.png")
+}
+
+.my-form{
+    padding: 20px;
+}
+
+.my-form label{
+    display: block;
+}
+.my-form input[type="text"], .my-form input[type="email"], .my-form textarea{
+    padding: 8px;
+    width: 100%;
+}
+
+.block{
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    float: left;
+    padding: 10px;
+    width: 33.3%
+}
+
+#main-block{
+    float: left;
+    width: 70%;
+    padding: 15px;
+    box-sizing: border-box;
+}
+#sidebar{
+    float: right;
+    width: 30%;
+    background-color: rgb(50, 17, 64);
+    color: #fff;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+.footer{
+    margin-top: 500px;
 }

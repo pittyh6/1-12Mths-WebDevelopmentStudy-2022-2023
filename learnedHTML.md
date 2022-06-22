@@ -42,6 +42,7 @@
     * textarea
     * button
     * form
+* class clr: both
 
 
 

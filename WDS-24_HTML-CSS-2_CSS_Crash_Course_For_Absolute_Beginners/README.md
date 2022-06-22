@@ -58,7 +58,12 @@
         * hover
         * active
         * visited
-        * 
+        * float
+        * height
+        * width
+        * box-sizing
+        * position
+       
 
     
     * value
@@ -78,6 +83,15 @@
         * border
             * solid
             * dotted
+        * box-sizing
+            * border-box
+        * position
+            * static
+            * relative
+            * absolute
+            * fixed
+            * initial
+            * inherit
 
 
 * HTML
