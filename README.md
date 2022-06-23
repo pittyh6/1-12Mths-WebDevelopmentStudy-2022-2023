@@ -15,10 +15,6 @@
 ## Management Tools
 * Jira(Sprints) [link](https://github.com/pittyh6/12Mths-WebDevelopmentStudy-2022-2023/tree/master/Sprint)
 
-### Result
-![Middle Banner](Documentation/Under_Development.gif)
-
-
 ## Tools
 <img src= Documentation/jira.png  height="90" width="100" ><img src= Documentation/vscode.png  height="90" width="100"><img src= Documentation/html.png  height="90" width="90"><img src= Documentation/css.png  height="90" width="90"><img src= Documentation/photoshop.png  height="90" width="100"><img src= Documentation/js.png  height="90" width="100"><img src= Documentation/jquery.png  height="90" width="100">
 
