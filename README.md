@@ -10,11 +10,12 @@
 
 * (HTML/CSS 2) - CSS Crash Course For Absolute Beginners [link](https://github.com/pittyh6/12Mths-WebDevelopmentStudy-2022-2023/tree/master/WDS-24_HTML-CSS-2_CSS_Crash_Course_For_Absolute_Beginners)
 
+* (JS 1) - JavaScript Crash Course For Beginners [link](https://github.com/pittyh6/12Mths-WebDevelopmentStudy-2022-2023/tree/master/WDS-20_JS-1_JavaScript_Crash_Course_For_Beginners)
+
 ## Management Tools
 * Jira(Sprints) [link](https://github.com/pittyh6/12Mths-WebDevelopmentStudy-2022-2023/tree/master/Sprint)
 
 ### Result
-* Desktop
 ![Middle Banner](Documentation/Under_Development.gif)
 
 
@@ -24,10 +25,12 @@
 ## What I learned/used (overall)
 * HTML 5
 * CSS
+* JavaScript
 
 ### You can find it in detail in the links below or inside each project folder in the readMe file what was learned and done.
 * HTML [link](https://github.com/pittyh6/12Mths-WebDevelopmentStudy-2022-2023/blob/master/learnedHTML.md)
 * CSS [link](https://github.com/pittyh6/12Mths-WebDevelopmentStudy-2022-2023/blob/master/learnedCSS.md)
+* JavaScript [link](https://github.com/pittyh6/12Mths-WebDevelopmentStudy-2022-2023/blob/master/javascript.md)
 
 
 
