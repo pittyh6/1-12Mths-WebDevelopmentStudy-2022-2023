@@ -13,6 +13,56 @@
 
 ## What I learned/used
 * JavaScript
+    * internal
+    * external
+    * console (Chrome)
+    * console.log
+    * console.error
+    * console.warn
+    * inline comment // 
+    * multi line comment /**/
+    * Variables
+        * var
+        * let
+        * const
+    * data types
+        * string
+        * numbers
+        * boolean
+        * null
+        * undefined
+    * concatenation
+        * "" = "bla bla" + variable + "bla bla"
+        * `` = `bla bla ${variable} bla bla`
+    * String properties
+        * .length
+    * String methods
+        * .toUpperCase()
+        * toLowerCase()
+        * substring()
+        * split('') //letters
+        * split(' ') //space
+        * split(', ') //comma space
+    * Arrays
+        * constructor array => .... = new Array()
+        * array => ... = []
+        * access specific data => ..... array[2]
+        * add value
+            * first
+            * last
+            * specific position
+        * replace values
+        * remove values
+            * first
+            * last
+        * pop
+        * unshift
+        * push
+        * isArray()
+        * indexOf()
+
+
+
 
       
 
