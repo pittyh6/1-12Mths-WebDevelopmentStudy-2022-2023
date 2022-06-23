@@ -19,12 +19,7 @@
 <img src= Documentation/jira.png  height="90" width="100" ><img src= Documentation/vscode.png  height="90" width="100"><img src= Documentation/html.png  height="90" width="90"><img src= Documentation/css.png  height="90" width="90"><img src= Documentation/photoshop.png  height="90" width="100"><img src= Documentation/js.png  height="90" width="100"><img src= Documentation/jquery.png  height="90" width="100">
 
 ## What I learned/used (overall)
-* HTML 5
-* CSS
-* JavaScript
-
-### You can find it in detail in the links below or inside each project folder in the readMe file what was learned and done.
-* HTML [link](https://github.com/pittyh6/12Mths-WebDevelopmentStudy-2022-2023/blob/master/learnedHTML.md)
+* HTML 5 [link](https://github.com/pittyh6/12Mths-WebDevelopmentStudy-2022-2023/blob/master/learnedHTML.md)
 * CSS [link](https://github.com/pittyh6/12Mths-WebDevelopmentStudy-2022-2023/blob/master/learnedCSS.md)
 * JavaScript [link](https://github.com/pittyh6/12Mths-WebDevelopmentStudy-2022-2023/blob/master/javascript.md)
 
