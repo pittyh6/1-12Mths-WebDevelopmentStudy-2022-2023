@@ -5,9 +5,9 @@
 
 
 ### Result
-* First(learning css)
+* First(learning css) [link](https://github.com/pittyh6/12Mths-WebDevelopmentStudy-2022-2023/tree/master/WDS-24_HTML-CSS-2_CSS_Crash_Course_For_Absolute_Beginners/csscheatcheet)
 ![Middle Banner](wds-24(1).gif)
-* Second(Website html + css)
+* Second(Website html + css) [link](https://github.com/pittyh6/12Mths-WebDevelopmentStudy-2022-2023/tree/master/WDS-24_HTML-CSS-2_CSS_Crash_Course_For_Absolute_Beginners/mywebsite)
 ![Middle Banner](wds-24(2).png)
 
 
