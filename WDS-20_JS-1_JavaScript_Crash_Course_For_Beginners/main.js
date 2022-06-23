@@ -98,7 +98,33 @@ console.log(free.indexOf('black horse'))
 // ------------------------------------------------//
 
 
-// ---- ---- //
+// ----Object Literals  ---- //
+const person = {
+    firstName: 'John',
+    lastName: 'Doe',
+    age: 34,
+    hobbies: ['music', 'yoga', 'kdrama'],
+    address: {
+        street: '50 main ave',
+        city: 'San Francisco',
+        state: 'CA'
+    }
+}
+
+console.log(person)
+console.log(person.firstName)
+console.log(person.firstName, person.lastName, person.age)
+console.log(person.hobbies[1])
+console.log(person.address.city)
+
+//Get the data from an object and save it in a variable
+const {firstName, lastName, address:{city}} = person
+console.log(firstName)
+console.log(city)
+
+//add information about the person object
+person.email = 'blabla@gmail.com'
+console.log(person)
 // ------------------------------------------------//
 
 

@@ -60,6 +60,14 @@
         * push
         * isArray()
         * indexOf()
+    * Object Literals        
+        * create object
+        * read values
+        * add information
+        * select specific data 
+        * select specific data from an object inside an object
+        * export data from an object to a variable
+        
 
 
 
