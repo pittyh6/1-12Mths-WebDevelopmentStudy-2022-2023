@@ -5,9 +5,10 @@
 
 
 ### Result
-* Desktop
-![Middle Banner](.png)
-![Middle Banner](.png)
+* First(learning css)
+![Middle Banner](wds-24(1).gif)
+* Second(Website html + css)
+![Middle Banner](wds-24(2).png)
 
 
 ## What I learned/used
@@ -25,6 +26,10 @@
     * Property: value
         * color
         * background-color
+        * background-image
+        * background-position
+        * background-repeat
+        * background-size
         * font-family
         * font-size
         * font-weight
@@ -60,9 +65,23 @@
         * visited
         * float
         * height
+        * min-height
         * width
         * box-sizing
         * position
+        * pseudo-class
+            * hover
+            * first-child
+            * last-child
+            * nth-child()
+            * nth-child(even)
+        * overflow
+
+    * container
+    * @media
+        * max-width
+
+
        
 
     
@@ -92,6 +111,15 @@
             * fixed
             * initial
             * inherit
+
+            * top
+            * right
+            * bottom
+            * left
+        * background-position
+            * px px
+            * center center, center top, center bottom, .....
+        
 
 
 * HTML
