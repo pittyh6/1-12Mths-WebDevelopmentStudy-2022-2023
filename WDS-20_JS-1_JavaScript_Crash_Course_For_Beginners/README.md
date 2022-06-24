@@ -81,7 +81,12 @@
         * for of loop
         * while
     * High Order Array Methods
-    
+        * forEach
+        * map
+        * filter
+        * filter + map
+    * Conditionals
+        
 
 
 

@@ -183,6 +183,29 @@ while(i<5){
 
 
 // ---- High Order Array Methods ---- //
+todos.forEach(function(todo){
+    console.log(todo)
+    console.log(todo.text)
+})
+
+const todoMapId = todos.map(function(todo){
+    return todo.id
+})
+console.log(todoMapId)
+console.log(todoMapId[1])
+
+const todoFilterIsCompletedTrue = todos.filter(function(todoTrue){
+    return todoTrue.isComplete == true;
+})
+console.log(todoFilterIsCompletedTrue);
+
+const todoFilterAndMap = todos.filter(function(todoFilterMap){
+    return todoFilterMap.isComplete == true;
+}).map(function(todo){
+    return todo.text;
+})
+console.log(todoFilterAndMap);
+
 // ------------------------------------------------//
 
 
