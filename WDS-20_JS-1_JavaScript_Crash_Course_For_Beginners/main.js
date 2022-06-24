@@ -128,15 +128,61 @@ console.log(person)
 // ------------------------------------------------//
 
 
-// ---- ---- //
+// ---- Arrays Of Objects & JSON ---- //
+const todos = [
+    {
+        id: 1,
+        text: 'Take out trash',
+        isComplete: true
+    },
+    {
+        id: 2,
+        text: 'Meeting with boss',
+        isComplete: true
+    },
+    {
+        id: 3,
+        text: 'Dentist appt',
+        isComplete: false
+    },
+];
+console.log(todos)
+console.log(todos[2])
+console.log(todos[2].id)
+console.log(todos[1].text)
+
+//JSON converter
+const todoJson = JSON.stringify(todos)
+console.log(todoJson)
+console.log(todoJson[2])
+
 // ------------------------------------------------//
 
 
-// ---- ---- //
+// ---- Loops ---- //
+for(let i = 0; i < 5; i++){
+    console.log(`for loop number: ${i}`);
+}
+
+for(let i = 0; i < todos.length; i++){
+    console.log(`array  loop number: ${todos[i].text}`);
+}
+
+for(let todo of todos){
+    console.log(todo);
+    console.log(todo.id);
+    console.log(todo.text);
+}
+
+let i = 0
+while(i<5){
+    console.log(`while loop number: ${i}`);
+    i++;
+}
 // ------------------------------------------------//
 
 
-// ---- ---- //
+// ---- High Order Array Methods ---- //
 // ------------------------------------------------//
 
 

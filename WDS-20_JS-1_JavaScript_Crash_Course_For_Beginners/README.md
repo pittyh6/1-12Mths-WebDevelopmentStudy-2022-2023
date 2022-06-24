@@ -67,7 +67,22 @@
         * select specific data 
         * select specific data from an object inside an object
         * export data from an object to a variable
-        
+    * Arrays Of Objects 
+        * array => ... = [ {}, {}, {}]
+        * access specific data => ..... array[2]
+        * access specific data => ..... array[2].id
+    * JSON // similar to Array obj but with "" not ''
+        * convert Array of object to JSON
+            * ... = JSON.stringify(array_name)
+    * loops
+        * for
+            * simple for loop
+            * array for loop
+        * for of loop
+        * while
+    * High Order Array Methods
+    
+
 
 
 
