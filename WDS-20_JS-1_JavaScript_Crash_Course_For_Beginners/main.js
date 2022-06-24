@@ -209,11 +209,39 @@ console.log(todoFilterAndMap);
 // ------------------------------------------------//
 
 
-// ---- ---- //
+// ---- Conditionals ---- //
+const xN = 99;
+if(xN == 10) {
+    console.log(`x is 10`)
+}else if(xN > 10) {
+    console.log(`x is ${xN}`)
+}else if(xN > 10 && xN <= 100) {
+    console.log(`x is ${xN}`)
+}else{
+    console.log(`x is not 10`)
+}
+
+//Conditional (ternary) operator
+const a = 11;
+const color = a > 10 ? 'red' : 'green';
+console.log(color)
+
+//switch
+switch(color){
+    case 'red':
+        console.log('color is red');
+        break;
+    case 'green':
+        console.log('color is green')
+        break;
+    default:
+        console.log('color is not red or green');
+        break;
+}
 // ------------------------------------------------//
 
 
-// ---- ---- //
+// ---- Functions ---- //
 // ------------------------------------------------//
 
 

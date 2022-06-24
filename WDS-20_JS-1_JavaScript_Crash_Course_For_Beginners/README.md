@@ -86,7 +86,25 @@
         * filter
         * filter + map
     * Conditionals
-        
+        * if
+        * else
+        * else if
+        * comparison
+            * ==
+            * ===
+            * !==
+            * >
+            * <
+            * >=
+            * <=
+            * &&
+            * ||
+        * Conditional (ternary) operator
+        * switch
+    * functions
+    
+
+
 
 
 
