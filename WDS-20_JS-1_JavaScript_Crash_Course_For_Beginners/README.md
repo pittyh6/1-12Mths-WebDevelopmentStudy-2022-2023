@@ -117,7 +117,8 @@
         * access properties
     * Prototypes
     * ES6 Classes 
-    
+    * Window Object & DOM
+
 
 
 
