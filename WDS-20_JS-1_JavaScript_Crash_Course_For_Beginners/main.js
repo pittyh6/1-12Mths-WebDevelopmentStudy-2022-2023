@@ -275,11 +275,60 @@ todos.forEach((todo) => console.log(todo))
 // ------------------------------------------------//
 
 
-// ---- ---- //
+// ---- Constructor Functions ---- //
+//constructor function
+function Person (firstName, lastName, dob){
+    this.firstName = firstName;
+    this.lastName = lastName;
+    this.dob = new Date(dob);
+    //create functions 
+    this.getBirthYear = function(){
+        return this.dob.getFullYear();
+    }
+    this.getFullName = function(){
+        return `${this.firstName} ${this.lastName}`
+    }
+}
+//instantiate object
+const person1 = new Person('Priscila', 'Bezerra', '2-3-1987')
+const person2 = new Person('Carlos', 'Santos', '12-11-1973')
+console.log(person1)
+console.log(person1.firstName)
+console.log(Person)
+console.log(person2)
+console.log(person2.dob)
+console.log(person2.dob.getFullYear())
+
+//return function
+console.log(person1.getBirthYear())
+console.log(person1.getFullName())
 // ------------------------------------------------//
 
 
-// ---- ---- //
+// ---- Prototypes ---- //
+//constructor function
+function PersonP (firstName, lastName, dob){
+    this.firstName = firstName;
+    this.lastName = lastName;
+    this.dob = new Date(dob);
+}
+
+//PROTOTYPE 
+PersonP.prototype.getBirthYear = function(){
+    return this.dob.getFullYear();
+}
+PersonP.prototype.getFullName = function(){
+    return `${this.firstName} ${this.lastName}`
+}
+
+//instantiate object
+const personP1 = new PersonP('Priscila', 'Bezerra', '2-3-1987')
+const personP2 = new PersonP('Carlos', 'Santos', '12-11-1973')
+
+
+console.log(personP1)
+console.log(personP1.getBirthYear())
+console.log(personP1.getFullName())
 // ------------------------------------------------//
 
 

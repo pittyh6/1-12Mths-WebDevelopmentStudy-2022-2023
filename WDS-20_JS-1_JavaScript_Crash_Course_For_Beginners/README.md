@@ -109,7 +109,15 @@
         * one line
         * multiple lines
         * High Order Array -> forEach
-        * lexical this
+    * Constructor Functions
+        * create
+        * instantiate object
+        * methods
+        * functions
+        * access properties
+    * Prototypes
+
+
 
 
 
