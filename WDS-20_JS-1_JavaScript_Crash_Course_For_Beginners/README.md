@@ -102,6 +102,17 @@
         * Conditional (ternary) operator
         * switch
     * functions
+        * parameters
+        * set default values for parameters
+        * return
+    * Arrow functions
+        * one line
+        * multiple lines
+        * High Order Array -> forEach
+        * lexical this
+
+
+
     
 
 

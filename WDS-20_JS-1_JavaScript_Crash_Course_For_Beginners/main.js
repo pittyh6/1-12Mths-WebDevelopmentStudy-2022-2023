@@ -242,6 +242,56 @@ switch(color){
 
 
 // ---- Functions ---- //
+function addNum(n1 = 1, n2){
+    return n1 + n2;
+}
+console.log(addNum())
+console.log(addNum(10, 10))
+
+// ------------------------------------------------//
+
+
+// ---- Arrow functions ---- //
+// for only 1 expressions do not need {} and you can not use return
+const adNumArrow = (num1 = 1, num2 = 2) => num1 + num2;
+console.log(adNumArrow())
+console.log(adNumArrow(5, 9))
+
+//to use return put the {}
+const adNum = (num1 = 1, num2 = 4) => {
+    return num1 + num2;
+}
+console.log(adNum())
+console.log(adNum(5, 9))
+
+//If you just have one parameter do not need use the ()
+const addNumP = np1 => np1 * 5;
+console.log(addNumP())
+console.log(addNumP(0))
+console.log(addNumP(5))
+
+//with a loop forEach
+todos.forEach((todo) => console.log(todo))
+// ------------------------------------------------//
+
+
+// ---- ---- //
+// ------------------------------------------------//
+
+
+// ---- ---- //
+// ------------------------------------------------//
+
+
+// ---- ---- //
+// ------------------------------------------------//
+
+
+// ---- ---- //
+// ------------------------------------------------//
+
+
+// ---- ---- //
 // ------------------------------------------------//
 
 
