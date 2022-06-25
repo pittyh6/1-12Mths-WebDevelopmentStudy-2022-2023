@@ -332,7 +332,28 @@ console.log(personP1.getFullName())
 // ------------------------------------------------//
 
 
-// ---- ---- //
+// ---- ES6 Classes ---- //
+class Personc {
+    constructor(firstName, lastName, dob){
+        this.firstName = firstName;
+        this.lastName = lastName;
+        this.dob = new Date(dob);
+    }
+    getBirthYear(){
+        return this.dob.getFullYear();
+    }
+    getFullName(){
+        return `${this.firstName} ${this.lastName}`;
+    }
+}
+
+const personc1 = new Personc('Priscila', 'Bezerra', '2-3-1987');
+const personc2 = new Personc('Carlos', 'Santos', '12-11-1973')
+
+console.log(Personc)
+console.log(personc1)
+console.log(personc2)
+console.log(personc2.getBirthYear())
 // ------------------------------------------------//
 
 

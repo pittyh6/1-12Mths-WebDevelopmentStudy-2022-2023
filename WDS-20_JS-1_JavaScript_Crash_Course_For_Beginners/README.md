@@ -116,6 +116,8 @@
         * functions
         * access properties
     * Prototypes
+    * ES6 Classes 
+    
 
 
 
