@@ -12,7 +12,7 @@
 
 * (JS 1) - JavaScript Crash Course For Beginners [link](https://github.com/pittyh6/12Mths-WebDevelopmentStudy-2022-2023/tree/master/WDS-20_JS-1_JavaScript_Crash_Course_For_Beginners)
 
-* (JS ES6/ES2015 1) - JavaScript Crash Course For Beginners [link](https://github.com/pittyh6/12Mths-WebDevelopmentStudy-2022-2023/tree/master/WDS-21_ES6-1_JavaScript_ES6-ES2015_01_Introduction)
+* (JS ES6/ES2015 1) - JavaScript ES6 / ES2015 - (01) Introduction [link](https://github.com/pittyh6/12Mths-WebDevelopmentStudy-2022-2023/tree/master/WDS-21_ES6-1_JavaScript_ES6-ES2015_01_Introduction)
 
 ## Management Tools
 * Jira(Sprints) [link](https://github.com/pittyh6/12Mths-WebDevelopmentStudy-2022-2023/tree/master/Sprint)
