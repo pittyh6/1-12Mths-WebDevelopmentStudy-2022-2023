@@ -5,13 +5,8 @@
 
 
 ### Result
-* First(learning ) [link]()
-![Middle Banner](.gif)
-* Second(Website ) [link]()
-![Middle Banner](.png)
 
-
-## What I learned/used
+![Middle Banner](wds-21.png)
 
       
 
