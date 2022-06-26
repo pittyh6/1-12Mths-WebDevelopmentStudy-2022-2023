@@ -14,6 +14,8 @@
 
 * (JS ES6/ES2015 1) - JavaScript ES6 / ES2015 - (01) Introduction [link](https://github.com/pittyh6/12Mths-WebDevelopmentStudy-2022-2023/tree/master/WDS-21_ES6-1_JavaScript_ES6-ES2015_01_Introduction)
 
+* (JS ES6/ES2015 2) - JavaScript ES6 / ES2015 - (02) Compile ES6 With Babel [link](https://github.com/pittyh6/12Mths-WebDevelopmentStudy-2022-2023/tree/master/WDS-25_ES6-2_JavaScript_ES6-ES2015_02_Compile_ES6_With_Babel)
+
 ## Management Tools
 * Jira(Sprints) [link](https://github.com/pittyh6/12Mths-WebDevelopmentStudy-2022-2023/tree/master/Sprint)
 
