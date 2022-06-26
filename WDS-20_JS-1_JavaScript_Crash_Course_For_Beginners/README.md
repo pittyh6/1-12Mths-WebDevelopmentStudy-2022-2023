@@ -5,10 +5,9 @@
 
 
 ### Result
-* First() [link]()
-![Middle Banner](wds-20(1).gif)
-* Second() [link]()
-![Middle Banner](wds-20(2).png)
+* Result [link](https://github.com/pittyh6/12Mths-WebDevelopmentStudy-2022-2023/blob/master/WDS-20_JS-1_JavaScript_Crash_Course_For_Beginners/main.js)
+![Middle Banner](resulWDS20.gif)
+
 
 
 ## What I learned/used
