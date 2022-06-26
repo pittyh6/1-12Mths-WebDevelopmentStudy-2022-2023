@@ -358,6 +358,31 @@ console.log(personc2.getBirthYear())
 
 
 // ---- Window Object & DOM ---- //
+//window object
+console.log(window);
+
+//DOM
+//single element
+const singleEl = document.getElementById('my-form');
+console.log(singleEl);
+console.log(document.querySelector('.container'));
+console.log(document.querySelector('h1'));
+
+//multiple elements
+console.log(document.querySelectorAll('input'));
+console.log(document.querySelectorAll('.item'));
+console.log(document.getElementsByClassName('item')); //old
+
+//loop through
+const items = document.querySelectorAll('.item');
+items.forEach(function(item){
+    console.log(item)
+});
+items.forEach((item =>  console.log(item.innerHTML)));
+
+
+//Manipulating The DOM 
+
 // ------------------------------------------------//
 
 

@@ -117,7 +117,19 @@
         * access properties
     * Prototypes
     * ES6 Classes 
-    * Window Object & DOM
+    * Window Object 
+    * DOM
+        * selectors
+            * single element
+                * document.getElementById('')
+                * querySelector('')
+            * multiple element
+                * document.querySelectorAll('')
+                * document.getElementsByClassName('')
+        * loop 
+        * Manipulating The DOM 
+        
+
 
 
 
