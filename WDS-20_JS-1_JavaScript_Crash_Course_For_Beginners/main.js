@@ -382,7 +382,15 @@ items.forEach((item =>  console.log(item.innerHTML)));
 
 
 //Manipulating The DOM 
+const ul = document.querySelector('.items');
+/* ul.remove(); */
+ul.lastElementChild.remove()
+ul.firstElementChild.textContent = 'hello kitty'
+ul.children[1].innerText = 'Pitty';
+ul.lastElementChild.innerHTML= '<h4>Hi there!</h4>'
 
+const btn = document.querySelector('.btn');
+btn.style.backgroundColor = '#b1b1c1'
 // ------------------------------------------------//
 
 

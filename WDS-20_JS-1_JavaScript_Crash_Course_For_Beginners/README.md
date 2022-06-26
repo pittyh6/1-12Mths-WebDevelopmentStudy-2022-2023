@@ -128,7 +128,15 @@
                 * document.getElementsByClassName('')
         * loop 
         * Manipulating The DOM 
-        
+            * remove();
+            * lastElementChild
+            * firstElementChild
+            * textContent
+            * children[]
+            * style
+                * background
+
+
 
 
 
