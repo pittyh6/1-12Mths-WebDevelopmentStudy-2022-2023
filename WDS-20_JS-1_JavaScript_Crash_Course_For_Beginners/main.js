@@ -394,7 +394,25 @@ btn.style.backgroundColor = '#b1b1c1'
 // ------------------------------------------------//
 
 
-// ---- ---- //
+// ---- Events ---- //
+const btnEvent = document.querySelector('.btn');
+
+btnEvent.addEventListener('click', (e) => {
+    e.preventDefault(); // bc form reload fast... so to see the console, stop the default pattern
+    console.log('click');
+    console.log(e);
+    console.log(e.target);
+    console.log(e.target.className);
+    console.log(e.path);
+    console.log(e.path[1]);
+
+    //change 
+    document.querySelector('#my-form').style.backgroundColor = '#c1c1'
+    document.querySelector('#name').placeholder = 'Priscila'
+
+    document.querySelector('body').classList.add('bg-dark')
+    document.querySelector('.items').lastElementChild.innerHTML = 'Bye Bye baby'
+});
 // ------------------------------------------------//
 
 

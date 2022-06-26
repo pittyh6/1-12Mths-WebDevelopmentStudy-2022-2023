@@ -135,7 +135,24 @@
             * children[]
             * style
                 * background
-
+    * Events 
+        * preventDefault()
+        * .addEventListener('', (e))
+            * click
+            * mouseover
+            * mouseout
+        * properties/attributes
+            * .target
+            * .target.className
+            * .target.id
+            * path
+            * path[]
+        * style
+        * placeholder
+        * innerHTML
+        * add and remove Class 
+            classList.add('')
+            classList.remove('')
 
 
 
