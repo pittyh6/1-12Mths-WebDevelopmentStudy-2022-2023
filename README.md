@@ -21,7 +21,7 @@
 ## What I learned/used (Link for details)
 * HTML 5 [link](https://github.com/pittyh6/12Mths-WebDevelopmentStudy-2022-2023/blob/master/learnedHTML.md)
 * CSS [link](https://github.com/pittyh6/12Mths-WebDevelopmentStudy-2022-2023/blob/master/learnedCSS.md)
-* JavaScript [link](https://github.com/pittyh6/12Mths-WebDevelopmentStudy-2022-2023/blob/master/javascript.md)
+* JavaScript [link](https://github.com/pittyh6/12Mths-WebDevelopmentStudy-2022-2023/blob/master/learnedJAVASCRIPT.md)
 
 
 
