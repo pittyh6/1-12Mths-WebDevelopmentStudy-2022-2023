@@ -408,7 +408,7 @@ btnEvent.addEventListener('click', (e) => {
 
     //change 
     document.querySelector('#my-form').style.backgroundColor = '#c1c1'
-    document.querySelector('#name').placeholder = 'Priscila'
+    document.querySelector('#name').placeholder = 'Enter Field'
 
     document.querySelector('body').classList.add('bg-dark')
     document.querySelector('.items').lastElementChild.innerHTML = 'Bye Bye baby'
@@ -416,5 +416,35 @@ btnEvent.addEventListener('click', (e) => {
 // ------------------------------------------------//
 
 
-// ---- ---- //
+// ---- Form Script ---- //
+const myForm = document.querySelector('#my-form')
+const nameForm = document.querySelector('#name')
+const emailForm = document.querySelector('#email')
+const msg = document.querySelector('.msg')
+const userList = document.querySelector('#users')
+const btnForm = document.querySelector('.btn')
+
+btnForm.addEventListener('click', onSubmit);
+
+function onSubmit(e){
+    console.log('---------------------------------------------')
+    e.preventDefault();
+
+    if(nameForm.value === '' || emailForm.value === ''){
+        msg.classList.add('error')
+        msg.innerHTML = 'Please enter your field'
+        setTimeout(() => msg.remove(), 3000);
+    }else{
+        const li = document.createElement('li');
+        li.appendChild(document.createTextNode(`${nameForm.value} : ${emailForm.value}`));
+
+        userList.appendChild(li)
+
+        //clear fields
+        nameForm.value = '';
+        emailForm.value = '';
+    }
+    
+}
+
 // ------------------------------------------------//

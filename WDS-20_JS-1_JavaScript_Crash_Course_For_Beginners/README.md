@@ -135,18 +135,21 @@
             * children[]
             * style
                 * background
+        * create Elements
     * Events 
         * preventDefault()
         * .addEventListener('', (e))
             * click
             * mouseover
             * mouseout
+            * submit
         * properties/attributes
             * .target
             * .target.className
             * .target.id
             * path
             * path[]
+            * value
         * style
         * placeholder
         * innerHTML
