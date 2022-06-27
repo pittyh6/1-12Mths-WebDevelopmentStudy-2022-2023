@@ -31,6 +31,8 @@
 ## Management Tools
 * Jira(Sprints) [link](https://github.com/pittyh6/12Mths-WebDevelopmentStudy-2022-2023/tree/master/Sprint)
 
-<hr>
+<br>
+<br>
+<br>
 
 ![End Banner](Documentation/botton-1200x350.gif)
