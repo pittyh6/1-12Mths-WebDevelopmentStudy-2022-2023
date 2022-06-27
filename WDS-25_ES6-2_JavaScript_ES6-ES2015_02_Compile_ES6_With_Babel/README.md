@@ -12,6 +12,10 @@
 
 
 ## What I learned/used
+* ES6 / ES2015
+    * compiler
+        * Babel
+            compile the code in ES6 to the es5 
 
       
 
