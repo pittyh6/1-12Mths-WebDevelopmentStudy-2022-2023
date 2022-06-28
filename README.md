@@ -3,6 +3,7 @@
 
 ![Begin Banner](Documentation/top-1200x350.gif)
 
+### First Month of study (June 20/06 - 30/06)
 * Online courses, challenges and creation of my own projects.
 
 ## What I learned/used (Link for details)
