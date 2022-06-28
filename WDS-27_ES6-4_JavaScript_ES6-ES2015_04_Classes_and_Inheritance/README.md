@@ -3,14 +3,6 @@
 
 ![Begin Banner](Documentation/top-1200x350.gif)
 
-
-### Result
-* First(learning ) [link]()
-![Middle Banner](.gif)
-* Second(Website ) [link]()
-![Middle Banner](.png)
-
-
 ## What I learned/used
 * ES6
     * Classes
