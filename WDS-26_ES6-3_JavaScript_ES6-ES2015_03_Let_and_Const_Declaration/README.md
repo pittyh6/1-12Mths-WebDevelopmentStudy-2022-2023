@@ -14,12 +14,12 @@
 ## What I learned/used
 * ES6
     * Declaration
+        * var
         * let
         * const
-        * var
     * if statements
     * loops
-    
+
 
 
       

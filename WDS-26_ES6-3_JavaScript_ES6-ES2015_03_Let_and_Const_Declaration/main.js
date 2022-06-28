@@ -36,4 +36,13 @@ for(let u = 0; u < 10; u++){
     console.log('loop with let')
     console.log(u);
 }
-    console.log(u); // does not work because it is not in the same level(inside the for loop)
+/*console.log(u);*/ // does not work because it is not in the same level(inside the for loop)
+
+const colors = [];
+colors.push('red');
+colors.push('blue');
+
+console.log(colors)
+colors = ''; //error => Uncaught TypeError: Assignment to constant variable.
+            // cant change the whole thing. You can push values but not change type.
+            
