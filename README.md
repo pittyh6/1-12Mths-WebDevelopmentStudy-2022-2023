@@ -25,6 +25,8 @@
 * (JS ES6/ES2015 3) - JavaScript ES6 / ES2015 - (03) Let and Const Declaration [link](https://github.com/pittyh6/12Mths-WebDevelopmentStudy-2022-2023/tree/master/WDS-26_ES6-3_JavaScript_ES6-ES2015_03_Let_and_Const_Declaration)
 
 
+* (JS ES6/ES2015 4) - JavaScript ES6 / ES2015 - (04) Classes and Inheritance [link](https://github.com/pittyh6/12Mths-WebDevelopmentStudy-2022-2023/tree/master/WDS-27_ES6-4_JavaScript_ES6-ES2015_04_Classes_and_Inheritance)
+
 ## Tools
 <img src= Documentation/jira.png  height="90" width="100" ><img src= Documentation/vscode.png  height="90" width="100"><img src= Documentation/html.png  height="90" width="90"><img src= Documentation/css.png  height="90" width="90"><img src= Documentation/photoshop.png  height="90" width="100"><img src= Documentation/js.png  height="90" width="100"><img src= Documentation/jquery.png  height="90" width="100">
 
