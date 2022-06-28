@@ -19,3 +19,19 @@ pri.register()
 
 //call a static method
 Users.countUsers()
+
+
+//INHERITANCE
+class Member extends Users{
+    constructor(username, email, password, memberPackage){
+        super(username, email, password);
+        this.package = memberPackage;
+    }
+
+    getPackage(){
+        console.log(this.username+ ' is now a subscribed in the ' +this.package +' package ')
+    }
+}
+let carlos = new Member('Carlos', 'santos@gmail.com', '12-11-1973', "standard");
+carlos.getPackage(); 
+carlos.register()

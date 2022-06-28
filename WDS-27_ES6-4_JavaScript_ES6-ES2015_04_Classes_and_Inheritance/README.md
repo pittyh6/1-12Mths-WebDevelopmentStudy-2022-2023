@@ -13,12 +13,15 @@
 
 ## What I learned/used
 * ES6
-    * Class
+    * Classes
+        * class
+        * Inheritance
+            * extends
     * properties
     * methods
         * method
         * static method
-        
+
    
 
 
