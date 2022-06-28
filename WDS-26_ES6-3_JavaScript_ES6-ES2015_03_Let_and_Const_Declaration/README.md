@@ -12,6 +12,15 @@
 
 
 ## What I learned/used
+* ES6
+    * Declaration
+        * let
+        * const
+        * var
+    * if statements
+    * loops
+    
+
 
       
 
