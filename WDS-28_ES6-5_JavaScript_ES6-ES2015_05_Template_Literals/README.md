@@ -5,7 +5,16 @@
 
 ## What I learned/used
 * ES6
-    *
+    * String
+        * Concatenation
+        * template literal
+            * function
+            * variable
+            * only text
+            * single line
+            * multiple line
+
+![Middle Banner](/WDS-28_ES6-5_JavaScript_ES6-ES2015_05_Template_Literals/wds-28.png)
    
 
 

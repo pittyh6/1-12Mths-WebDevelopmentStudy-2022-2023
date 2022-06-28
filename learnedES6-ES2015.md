@@ -23,5 +23,13 @@
     * methods
         * method
         * static method
+    * String
+        * Concatenation
+        * template literal
+            * function
+            * variable
+            * only text
+            * single line
+            * multiple line
 
 ![End Banner](Documentation/botton-1200x350.gif)
