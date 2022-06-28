@@ -13,7 +13,12 @@
 
 ## What I learned/used
 * ES6
-    * 888
+    * Class
+    * properties
+    * methods
+        * method
+        * static method
+        
    
 
 
