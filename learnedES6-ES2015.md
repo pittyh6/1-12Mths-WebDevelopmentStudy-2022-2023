@@ -9,7 +9,12 @@
 ### JavaScript ES6 / ES2015
 * ES6/ ES2015
     * Babel
-    * 
+    * Declaration
+        * var
+        * let
+        * const
+    * if statements
+    * loops
 
 
 ![End Banner](Documentation/botton-1200x350.gif)
