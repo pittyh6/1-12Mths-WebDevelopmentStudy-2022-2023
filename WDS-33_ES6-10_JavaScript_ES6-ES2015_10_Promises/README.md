@@ -8,11 +8,11 @@
    
 ## What I learned/used
 * ES6
-    * 
+    * Promises Objects
+        * Resolve()
+        * then()
+        
+
    
-
-
-
-      
 
 ![End Banner](Documentation/botton-1200x350.gif)
