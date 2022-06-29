@@ -8,6 +8,10 @@
    
 ## What I learned/used
 * ES6
+    * Default Parameters
+        * $nameParameter
+    * Spread Operator
+        
 
 
 
