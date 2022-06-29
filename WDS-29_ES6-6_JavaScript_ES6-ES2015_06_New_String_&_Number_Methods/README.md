@@ -4,7 +4,7 @@
 ![Begin Banner](Documentation/top-1200x350.gif)
  
 # Result
-![Middle Banner](/WDS-28_ES6-5_JavaScript_ES6-ES2015_05_Template_Literals/wds-29.png)
+![Middle Banner](/WDS-29_ES6-6_JavaScript_ES6-ES2015_06_New_String_&_Number_Methods/wds-29.png)
    
 ## What I learned/used
 * ES6
