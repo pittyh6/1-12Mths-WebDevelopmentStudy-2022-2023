@@ -32,7 +32,9 @@
 
 * (JS ES6/ES2015 6) - JavaScript ES6 / ES2015 - (06) New String & Number Methods [link](https://github.com/pittyh6/12Mths-WebDevelopmentStudy-2022-2023/tree/master/WDS-29_ES6-6_JavaScript_ES6-ES2015_06_New_String_&_Number_Methods)
 
-* (JS ES6/ES2015 7) - JavaScript ES6 / ES2015 - (07) New String & Number Methods [link](https://github.com/pittyh6/12Mths-WebDevelopmentStudy-2022-2023/tree/master/WDS-30_ES6-7_JavaScript_ES6-ES2015_07_Default_Params_&_Spread_Operator)
+* (JS ES6/ES2015 7) - JavaScript ES6 / ES2015 - (07) Default Params & Spread Operator [link](https://github.com/pittyh6/1-12Mths-WebDevelopmentStudy-2022-2023/tree/master/WDS-30_ES6-7_JavaScript_ES6-ES2015_07_Default_Params_&_Spread_Operator)
+
+* (JS ES6/ES2015 8) - JavaScript ES6 / ES2015 - (08) Set, Map, WeakSet and WeakMap [link](https://github.com/pittyh6/1-12Mths-WebDevelopmentStudy-2022-2023/tree/master/WDS-31_ES6-8_JavaScript_ES6-ES2015_08_Set,_Map,_WeakSet_and_WeakMap)
 
 ## Tools
 <img src= Documentation/jira.png  height="90" width="100" ><img src= Documentation/vscode.png  height="90" width="100"><img src= Documentation/html.png  height="90" width="90"><img src= Documentation/css.png  height="90" width="90"><img src= Documentation/photoshop.png  height="90" width="100"><img src= Documentation/js.png  height="90" width="100"><img src= Documentation/jquery.png  height="90" width="100">
