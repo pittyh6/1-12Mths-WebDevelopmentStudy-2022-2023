@@ -40,7 +40,7 @@
 
 * (JS ES6/ES2015 10) - JavaScript ES6 / ES2015 - (10) Promises [link](https://github.com/pittyh6/1-12Mths-WebDevelopmentStudy-2022-2023/tree/master/WDS-33_ES6-10_JavaScript_ES6-ES2015_10_Promises)
 
-* (JS ES6/ES2015 11) - JavaScript ES6 / ES2015 - (11) Promises [link](https://github.com/pittyh6/1-12Mths-WebDevelopmentStudy-2022-2023/tree/master/WDS-34_ES6-11_JavaScript_ES6-ES2015_11_Generators)
+* (JS ES6/ES2015 11) - JavaScript ES6 / ES2015 - (11) Generators [link](https://github.com/pittyh6/1-12Mths-WebDevelopmentStudy-2022-2023/tree/master/WDS-34_ES6-11_JavaScript_ES6-ES2015_11_Generators)
 
 ## Tools
 <img src= Documentation/jira.png  height="90" width="100" ><img src= Documentation/vscode.png  height="90" width="100"><img src= Documentation/html.png  height="90" width="90"><img src= Documentation/css.png  height="90" width="90"><img src= Documentation/photoshop.png  height="90" width="100"><img src= Documentation/js.png  height="90" width="100"><img src= Documentation/jquery.png  height="90" width="100">
