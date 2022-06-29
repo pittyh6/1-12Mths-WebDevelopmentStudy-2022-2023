@@ -30,6 +30,19 @@
             * variable
             * only text
             * single line
-            * multiple line
+            * multiple lines
+    * String Methods
+        * startsWith()
+        * endsWith()
+        * includes()
+    * Number features
+        * HEX => 0xFF
+        * Binary => 0b101011
+        * Octal => 0o543
+    * Number methods
+        * isFinite()
+        * isNaN()
+        * isInteger()
+
 
 ![End Banner](Documentation/botton-1200x350.gif)
