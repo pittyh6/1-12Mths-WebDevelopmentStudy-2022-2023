@@ -47,6 +47,28 @@
         * $nameParameter
     * Spread Operator
         * ...nameVariable
+    * Set
+        * Set object = store unique values
+        * Methods
+            * add()
+            * delete()
+            * clear()
+        * size
+        * loop
+            * forEach()
+    * Map
+        * create => ... = new Map([])
+        * Methods
+            * set
+            * delete
+        * size
+    * WeakSet
+        * add()
+        * delete()
+    * WeakMap
+        * create => ... = new Map()
+        * set()
+        * delete()
 
 
 ![End Banner](Documentation/botton-1200x350.gif)
