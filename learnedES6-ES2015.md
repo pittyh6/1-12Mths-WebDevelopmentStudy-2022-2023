@@ -69,6 +69,7 @@
         * create => ... = new Map()
         * set()
         * delete()
+    * Arrow Function
 
 
 ![End Banner](Documentation/botton-1200x350.gif)

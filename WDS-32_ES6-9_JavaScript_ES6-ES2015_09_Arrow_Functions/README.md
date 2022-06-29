@@ -4,16 +4,12 @@
 ![Begin Banner](Documentation/top-1200x350.gif)
  
 # Result
-![Middle Banner](/WDS-31_ES6-8_JavaScript_ES6-ES2015_08_Set,_Map,_WeakSet_and_WeakMap/wds-32.png)
+![Middle Banner](/WDS-32_ES6-9_JavaScript_ES6-ES2015_09_Arrow_Functions/wds-32.png)
    
 ## What I learned/used
 * ES6
+    * Arrow Function
    
-
-
-
-
-
 
 
 
