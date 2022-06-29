@@ -8,6 +8,12 @@
    
 ## What I learned/used
 * ES6
+    * Generators
+        * *nameFunction()
+        * yield
+        * next()
+        * .value
+        
 
         
 
