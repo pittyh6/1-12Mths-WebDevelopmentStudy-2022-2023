@@ -43,6 +43,10 @@
         * isFinite()
         * isNaN()
         * isInteger()
+    * Default Parameters
+        * $nameParameter
+    * Spread Operator
+        * ...nameVariable
 
 
 ![End Banner](Documentation/botton-1200x350.gif)
