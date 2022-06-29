@@ -7,5 +7,5 @@
 * this sprint is going to be small... Future sprints are going to be a 1month sprint.
 
 ## What I have done
-![Begin Banner](.png)
+![Begin Banner](backlog.png)
 
