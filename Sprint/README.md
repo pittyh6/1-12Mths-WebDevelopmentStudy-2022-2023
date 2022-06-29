@@ -1,8 +1,6 @@
 
 
 # Jira Sprints
-![Begin Banner](.png)
-
 ## First Sprint
 * Start 20/06/2022  
 * End Plan 30/06/2022
