@@ -8,6 +8,20 @@
    
 ## What I learned/used
 * ES6
+    * String Methods
+        * startsWith()
+        * endsWith()
+        * includes()
+    * Number features
+        * HEX => 0xFF
+        * Binary => 0b101011
+        * Octal => 0o543
+    * Number methods
+        * isFinite()
+        * isNaN()
+        * isInteger()
+
+
 
       
 
