@@ -8,4 +8,9 @@
 
 ## What I have done
 ![Begin Banner](backlog.png)
+![Begin Banner](roadmap.png)
+![Begin Banner](Burnup.png)
+![Begin Banner](burndown.png)
+![Begin Banner](Cumulative.png)
+
 
